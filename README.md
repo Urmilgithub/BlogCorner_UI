@@ -11,4 +11,4 @@
 ### 🔒 Authentication & Authorization
 * **JWT Token Management:** Secure storage and automated token rotation mechanisms (`localStorage`/`sessionStorage`).
 * **Route Guards:** Flexible Auth/Route guards to restrict unauthorized user access to sensitive views.
-* **Role-Based Security:** Fine-grained authorization controls for standard and admin users.
+* **Role-Based Security:** Fine-grained authorization controls for standard and admin users
